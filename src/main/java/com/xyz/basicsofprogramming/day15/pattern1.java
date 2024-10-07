@@ -1,0 +1,8 @@
+package com.xyz.basicsofprogramming.day15;
+
+public class pattern1 {
+	public static void main(String[] args) {
+	System.out.println("#");
+	
+	}
+}
